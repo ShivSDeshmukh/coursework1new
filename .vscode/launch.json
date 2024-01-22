@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/DELL/OneDrive/Desktop/home/DELL/project",
-      "program": "c:/Users/DELL/OneDrive/Desktop/home/DELL/project/build/Debug/outDebug",
+      "cwd": "c:/Users/DELL/OneDrive/Desktop/home/DELL/project/src",
+      "program": "c:/Users/DELL/OneDrive/Desktop/home/DELL/project/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
